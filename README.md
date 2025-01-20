@@ -7,12 +7,13 @@ O diretório `./src` contém o código fonte referente as aulas e desafios do cu
 ---
 
 ### 🛠️ Menu
-1. [Lógica de programação: mergulhe em programação com JavaScript](./logica-de-programacao_mergulhe-em-programação-com-javascript/)
-
+1. [Projeto desenvolvido nas aulas - Jogo do número secreto!](./src/aulas/)
+2. [Desafios da aula 1!](./src/desafios-aula-01/)
+3. [Desafios da aula 2!](./src/desafios-aula-02/)
+4. [Desafios da aula 3!](./src/desafios-aula-03/)
+5. [Desafios da aula 4!](./src/desafios-aula-04/)
 
 ---
 
-### 🌟 Características 
-
----
-
+### Visite as paginas do projeto:
+ [- Paginas do projeto](https://andreluizmb82.github.io/logica-de-programacao_mergulhe-em-programa-o-com-javascript/)
