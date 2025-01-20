@@ -1,0 +1,1 @@
+console.log('Seja bem-vindo(a) a solução do desafio 4.1');
